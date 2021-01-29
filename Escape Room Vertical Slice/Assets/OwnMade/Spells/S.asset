@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f2aeba201db1f64291261b21443a8ab, type: 3}
+  m_Name: S
+  m_EditorClassIdentifier: 
+  spellSprite: {fileID: 21300000, guid: 4ac98ffa277fa6747943f66e1f078610, type: 3}
+  name: S
+  ControlAreas:
+  - {x: 70, y: 75}
+  - {x: 50, y: 95}
+  - {x: 25, y: 75}
+  - {x: 50, y: 50}
+  - {x: 75, y: 25}
+  - {x: 50, y: 5}
+  - {x: 25, y: 30}
+  succeedingSpells: []
+  Effect: {fileID: 4187072227543640435, guid: e4773e3ffc4bca2448a071606de9a176, type: 3}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb3bde3c586a5134a9352afec9013aa8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DebugMarker: {instanceID: 0}
+  - TrackedObject: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - Plane: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
